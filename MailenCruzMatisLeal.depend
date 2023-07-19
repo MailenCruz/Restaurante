@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1669273394 source:c:\users\mati\desktop\estesi\mailencruzmatisleal\arte_ascii_desarrolldas.c
+	<stdio.h>
+	<stdlib.h>
+	"f_nombres.h"
+	"string.h"
+	"arte_asci_nombres.h"
+	"f_de_pago_solo_nombres.h"
+
+1669273610 c:\users\mati\desktop\estesi\mailencruzmatisleal\f_nombres.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1669273538 c:\users\mati\desktop\estesi\mailencruzmatisleal\arte_asci_nombres.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1669273394 source:c:\users\mati\desktop\estesi\mailencruzmatisleal\f_nombres_desarrolladas.c
+	<stdio.h>
+	<stdlib.h>
+	"f_nombres.h"
+	"arte_asci_nombres.h"
+	"f_de_pago_solo_nombres.h"
+	"string.h"
+
+1669273360 source:c:\users\mati\desktop\estesi\mailencruzmatisleal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"f_nombres.h"
+	"string.h"
+	"arte_asci_nombres.h"
+	"f_de_pago_solo_nombres.h"
+
+1669273481 c:\users\mati\desktop\estesi\mailencruzmatisleal\f_de_pago_solo_nombres.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1669273394 source:c:\users\mati\desktop\estesi\mailencruzmatisleal\f_nombres_pago.c
+	<stdio.h>
+	<stdlib.h>
+	"f_nombres.h"
+	"arte_asci_nombres.h"
+	"string.h"
+	"f_de_pago_solo_nombres.h"
+
+1669273394 source:c:\users\usuario\desktop\mailencruzmatisleal\arte_ascii_desarrolldas.c
+	<stdio.h>
+	<stdlib.h>
+	"f_nombres.h"
+	"string.h"
+	"arte_asci_nombres.h"
+	"f_de_pago_solo_nombres.h"
+
+1669292169 c:\users\usuario\desktop\mailencruzmatisleal\f_nombres.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1669273538 c:\users\usuario\desktop\mailencruzmatisleal\arte_asci_nombres.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1669273481 c:\users\usuario\desktop\mailencruzmatisleal\f_de_pago_solo_nombres.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1669292169 source:c:\users\usuario\desktop\mailencruzmatisleal\f_nombres_desarrolladas.c
+	<stdio.h>
+	<stdlib.h>
+	"f_nombres.h"
+	"arte_asci_nombres.h"
+	"f_de_pago_solo_nombres.h"
+	"string.h"
+
+1669293619 source:c:\users\usuario\desktop\mailencruzmatisleal\f_nombres_pago.c
+	<stdio.h>
+	<stdlib.h>
+	"f_nombres.h"
+	"arte_asci_nombres.h"
+	"string.h"
+	"f_de_pago_solo_nombres.h"
+
+1669273360 source:c:\users\usuario\desktop\mailencruzmatisleal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"f_nombres.h"
+	"string.h"
+	"arte_asci_nombres.h"
+	"f_de_pago_solo_nombres.h"
+
